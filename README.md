@@ -340,38 +340,6 @@ Summarizes the main findings, business risks, strategic recommendations, and fin
 
 ---
 
-## How to Run the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/hr-analytics-workforce-performance.git
-```
-
-2. Navigate into the project folder:
-
-```bash
-cd hr-analytics-workforce-performance
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Open the notebooks:
-
-```bash
-jupyter notebook
-```
-
-5. Run the SQL script in MySQL.
-
-6. Open the Power BI file from the `dashboard/` folder.
-
----
-
 ## Future Improvements
 
 - Add employee attrition prediction using machine learning.
