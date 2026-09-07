@@ -350,10 +350,22 @@ Summarizes the main findings, business risks, strategic recommendations, and fin
 
 ---
 
+
 ## Author
 
-**Saad Maher**
+### Saad Maher
 
-Aspiring Data Analyst focused on Python, SQL, Power BI, and business analytics.
+Data Analyst focused on transforming raw data into clear insights using **Python, SQL, Excel, and Power BI**.
 
-If you found this project useful, consider starring the repository.
+[![GitHub](https://img.shields.io/badge/GitHub-Immobre-181717?style=for-the-badge\&logo=github)](https://github.com/Immobre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Maher-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/saad-m-83b846356/)
+
+*Feel free to explore my other projects and connect with me.*
+
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
