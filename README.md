@@ -1,4 +1,4 @@
-# HR Analytics: Workforce Performance & Employee Insights
+# 📊 HR Analytics: Workforce Performance & Employee Insights
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
@@ -8,9 +8,9 @@
 
 ---
 
-## Project Overview
+## 🚀 Project Overview
 
-This project is an end-to-end HR Analytics case study focused on workforce performance, compensation, employee engagement, satisfaction, recruitment effectiveness, absenteeism, and retention.
+This project is an HR Analytics case study focused on workforce performance, compensation, employee engagement, satisfaction, recruitment effectiveness, absenteeism, and retention.
 
 The objective is to transform raw HR data into clear business insights using Python, SQL, and Power BI, then communicate those insights through an executive dashboard and strategic recommendations.
 
