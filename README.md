@@ -99,14 +99,14 @@ hr-analytics-workforce-performance/
 ├── data/
 │   └── HRDataset_v14.csv
 │
-├── notebooks/
+├── notebook/
 │   ├── 01_data_understanding.ipynb
 │   ├── 02_data_quality_assessment.ipynb
 │   ├── 03_exploratory_data_analysis.ipynb
 │   ├── 04_feature_engineering.ipynb
 │   └── 05_executive_summary_and_business_recommendations.ipynb
 │
-├── sql/
+├── SQL/
 │   └── hr_workforce_business_analysis.sql
 │
 ├── dashboard/
