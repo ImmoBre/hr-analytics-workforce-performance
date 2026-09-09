@@ -10,9 +10,9 @@
 
 ## 🚀 Project Overview
 
-This project is an HR Analytics case study focused on workforce performance, compensation, employee engagement, satisfaction, recruitment effectiveness, absenteeism, and retention.
+In this HR Analytics case study, I analyzed workforce performance, compensation, employee engagement, satisfaction, recruitment effectiveness, absenteeism, and employee retention.
 
-The objective is to transform raw HR data into clear business insights using Python, SQL, and Power BI, then communicate those insights through an executive dashboard and strategic recommendations.
+I used **Python**, **SQL**, and **Power BI** to transform raw HR data into clear business insights, which I communicated through an executive dashboard and strategic recommendations.
 
 ---
 
